@@ -1,7 +1,7 @@
 <?php
 /**
  * WHMCS Language File
- * Simplified Chinese (zh_CN)
+ * Simplified Chinese (zh_TW)
  *
  * Please Note: These language files are overwritten during software updates
  * and therefore editing of these files directly is not advised. Instead we
@@ -21,7 +21,7 @@
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
 
-$_LANG['locale'] = "zh_CN";
+$_LANG['locale'] = "zh_TW";
 
 $_LANG['accountinfo'] = "帳戶資訊";
 $_LANG['accountstats'] = "帳戶統計";

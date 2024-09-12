@@ -2,7 +2,7 @@
 // @by Rodots 傲世 WHMCS 8.7.3 WHMCS-zh-CN
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
 
-$_ADMINLANG['locale'] = "zh_CN";
+$_ADMINLANG['locale'] = "zh_TW";
 
 # Global
 $_ADMINLANG['global']['hometitle'] = "儀表盤";
