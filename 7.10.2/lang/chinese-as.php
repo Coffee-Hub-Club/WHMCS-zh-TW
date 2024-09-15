@@ -213,7 +213,7 @@ $_LANG['clientareanavservices'] = "我的服務";
 $_LANG['clientareanavsupporttickets'] = "我的客服單";
 $_LANG['clientareanocontacts'] = "未發現任何聯絡人";
 $_LANG['clientareapassword'] = "密碼";
-$_LANG['clientareapending'] = "稽核中";
+$_LANG['clientareapending'] = "審核中";
 $_LANG['clientareapendingregistration'] = "待註冊";
 $_LANG['clientareapendingtransfer'] = "轉移確認中";
 $_LANG['clientareaphonenumber'] = "手機號碼";
@@ -402,7 +402,7 @@ $_LANG['firstpaymentamount'] = "首次付款金額";
 $_LANG['flashtutorials'] = "Flash 教程";
 $_LANG['flashtutorialsdescription'] = "點此觀看關於如何使用您的主機空間控制面板的影片教程。";
 $_LANG['flashtutorialsheadertext'] = "這裡是我們幫助您完整的使用空間控制面板的 Flash 教程。請從下面選擇一個任務來詳細學習如何使用。";
-$_LANG['forwardingtogateway'] = "請稍等，正在轉到您選擇的付款閘道器…";
+$_LANG['forwardingtogateway'] = "請稍等，正在轉到您選擇的付款網關…";
 $_LANG['globalsystemname'] = "門戶首頁";
 $_LANG['globalyouarehere'] = "您在這";
 $_LANG['go'] = "確認";
@@ -450,7 +450,7 @@ $_LANG['invoicestotal'] = "總計";
 $_LANG['invoicestransactions'] = "交易";
 $_LANG['invoicestransamount'] = "金額";
 $_LANG['invoicestransdate'] = "交易日期";
-$_LANG['invoicestransgateway'] = "閘道器";
+$_LANG['invoicestransgateway'] = "網關";
 $_LANG['invoicestransid'] = "交易編號";
 $_LANG['invoicestransnonefound'] = "未找到相關交易";
 $_LANG['invoicesunpaid'] = "未付款";
@@ -502,7 +502,7 @@ $_LANG['maxmind_callingnow'] = "我們將自動撥打電話。這是我們防止
 $_LANG['maxmind_countrymismatch'] = "您的 IP 地址與填寫的資料裡的國家不匹配，所以我們不能接受您的訂單。";
 $_LANG['maxmind_error'] = "錯誤";
 $_LANG['maxmind_faileddescription'] = "您輸入的程式碼是不正確的，如果您覺得系統有誤請儘快聯絡我們的支援部門。";
-$_LANG['maxmind_highfraudriskscore'] = "我們的系統察覺您訂單欺詐的風險很大因此需要人工稽核。<br/><br/>如果您認為此資訊有誤，請接收我們的道歉並向客服部門 <a href=\"submitticket.php\">提交客服單</a>，感謝您的理解。";
+$_LANG['maxmind_highfraudriskscore'] = "我們的系統察覺您訂單欺詐的風險很大因此需要人工審核。<br/><br/>如果您認為此資訊有誤，請接收我們的道歉並向客服部門 <a href=\"submitticket.php\">提交客服單</a>，感謝您的理解。";
 $_LANG['maxmind_highriskcountry'] = "我們不能接受來自您的國家的訂購因為詐騙的風險很大。";
 $_LANG['maxmind_incorrectcode'] = "錯誤的程式碼";
 $_LANG['maxmind_pincode'] = "PIN 碼";
@@ -522,7 +522,7 @@ $_LANG['networkissuespriorityhigh'] = "高";
 $_LANG['networkissuesprioritylow'] = "低";
 $_LANG['networkissuesprioritymedium'] = "中";
 $_LANG['networkissuesstatusinprogress'] = "處理中";
-$_LANG['networkissuesstatusinvestigating'] = "稽核中";
+$_LANG['networkissuesstatusinvestigating'] = "審核中";
 $_LANG['networkissuesstatusopen'] = "進行中";
 $_LANG['networkissuesstatusoutage'] = "中斷";
 $_LANG['networkissuesstatusreported'] = "已報告";
@@ -1054,7 +1054,7 @@ $_LANG['quotefinalpayment'] = "從帳戶餘額扣款";
 $_LANG['invoiceoneoffpayment'] = "使用子帳戶付款";
 $_LANG['invoicesubscriptionpayment'] = "建立自動續費訂閱";
 
-$_LANG['invoicepaymentpendingreview'] = "謝謝您！您的付款已經成功，您的付款已成功完成，並在 2CheckOut 的稽核流程完成後立即應用於您的帳單。<br/><br/>這可能需要幾個小時，感謝您的耐心等待。";
+$_LANG['invoicepaymentpendingreview'] = "謝謝您！您的付款已經成功，您的付款已成功完成，並在 2CheckOut 的審核流程完成後立即應用於您的帳單。<br/><br/>這可能需要幾個小時，感謝您的耐心等待。";
 
 $_LANG['step'] = "步驟 %s";
 $_LANG['cartdomainexists'] = "此域名已經存在於我們的資料庫";
@@ -2454,7 +2454,7 @@ $_LANG['orderErrorServerNameserversInvalid'] = "域名伺服器字首無效。";
 $_LANG['checkAll'] = "全選";
 $_LANG['uncheckAll'] = "反選";
 
-$_LANG['maxmind']['manualReview'] = "您的訂單已經進行人工稽核。<br/><br/>如果您認為本資訊有錯誤，請諒解並透過 <a href=\"submitticket.php\">提交支援客服單</a> 聯絡客戶服務團隊，謝謝。";
+$_LANG['maxmind']['manualReview'] = "您的訂單已經進行人工審核。<br/><br/>如果您認為本資訊有錯誤，請諒解並透過 <a href=\"submitticket.php\">提交支援客服單</a> 聯絡客戶服務團隊，謝謝。";
 
 $_LANG['nodomain'] = "未指定域名";
 
@@ -2598,8 +2598,8 @@ $_LANG['tax']['errorInvalid'] = "提供的 :taxLabel 無效。";
 $_LANG['fraud']['checkConfiguration'] = "欺詐檢查發生錯誤。請聯絡支援。";
 $_LANG['fraud']['title'] = "欺詐檢查";
 $_LANG['fraud']['error'] = "錯誤";
-$_LANG['fraud']['manualReview'] = "您的訂單已經進行人工稽核。<br/><br/>如果您認為錯誤地收到了此訊息，請接受我們的道歉並 <a href=\"submitticket.php\">提交支援客服單</a> 聯絡我們的客戶服務支援團隊。謝謝。";
-$_LANG['fraud']['highFraudRiskScore'] = "您的訂單已被標記為潛在的高風險，因此已經進行人工稽核。<br/><br/>如果您認為錯誤地收到了此訊息，請接受我們的道歉並 <a href=\"submitticket.php\">提交支援客服單</a> 聯絡我們的客戶服務支援團隊。謝謝。";
+$_LANG['fraud']['manualReview'] = "您的訂單已經進行人工審核。<br/><br/>如果您認為錯誤地收到了此訊息，請接受我們的道歉並 <a href=\"submitticket.php\">提交支援客服單</a> 聯絡我們的客戶服務支援團隊。謝謝。";
+$_LANG['fraud']['highFraudRiskScore'] = "您的訂單已被標記為潛在的高風險，因此已經進行人工審核。<br/><br/>如果您認為錯誤地收到了此訊息，請接受我們的道歉並 <a href=\"submitticket.php\">提交支援客服單</a> 聯絡我們的客戶服務支援團隊。謝謝。";
 $_LANG['fraud']['countryMismatch'] = "您的 IP 地址所在的國家/地區與您輸入的帳單地址國家/地區不符，因此我們無法接受您的訂單";
 $_LANG['fraud']['highRiskCountry'] = "很遺憾，我們無法接受您的訂單，因為您所在的國家/地區存在大量欺詐活動。如果您想安排其它付款方式，請與我們聯絡。";
 $_LANG['fraud']['anonymousProxy'] = "我們不允許使用匿名代理發出訂單";
@@ -2939,7 +2939,7 @@ $_LANG['support']['emailNotPossible'] = "無法新增：電子郵件作為抄送
 $_LANG['support']['invalidEmail'] = "輸入的電子郵件地址無效.";
 
 $_LANG['confirmAndPay'] = "確認和支付";
-$_LANG['paymentPreApproved'] = "付款預先批准與:閘道器";
+$_LANG['paymentPreApproved'] = "付款預先批准與:網關";
 $_LANG['expressCheckoutInfo'] = "你的付款正在等待確認。通常只需幾分鐘就可以完成付款。如果您在幾分鐘內沒有收到電子郵件，請聯絡技術支援。";
 $_LANG['expressCheckoutError'] = "你付款時出了問題。請聯絡支援。";
 
