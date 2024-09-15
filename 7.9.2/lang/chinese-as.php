@@ -104,7 +104,7 @@ $_LANG['carttaxupdateselectionsupdate'] = "更新";
 $_LANG['carttitle'] = "購物車";
 $_LANG['changessavedsuccessfully'] = "修改已成功儲存！";
 $_LANG['checkavailability'] = "查詢域名";
-$_LANG['checkout'] = "結賬";
+$_LANG['checkout'] = "結帳";
 $_LANG['choosecurrency'] = "選擇貨幣";
 $_LANG['choosedomains'] = "選擇域名";
 $_LANG['clickheretologin'] = "點選登入";
@@ -551,7 +551,7 @@ $_LANG['orderchangeconfig'] = "變更配置選項";
 $_LANG['orderchangedomain'] = "變更域名";
 $_LANG['orderchangenameservers'] = "僅變更域名解析伺服器";
 $_LANG['orderchangeproduct'] = "變更產品";
-$_LANG['ordercheckout'] = "結賬";
+$_LANG['ordercheckout'] = "結帳";
 $_LANG['orderchooseaddons'] = "選擇產品附加服務";
 $_LANG['orderchooseapackage'] = "選擇方案";
 $_LANG['ordercodenotfound'] = "您輸入的優惠碼不存在";
@@ -981,7 +981,7 @@ $_LANG['ordersummarybegin'] = "請選擇產品然後開始購買";
 $_LANG['cartchooseproduct'] = "選擇產品";
 $_LANG['cartconfigurationoptions'] = "配置設定";
 
-$_LANG['ordererrorsoccurred'] = "有以下錯誤，請先修正後才能結賬：";
+$_LANG['ordererrorsoccurred'] = "有以下錯誤，請先修正後才能結帳：";
 $_LANG['ordererrortermsofservice'] = "您必須同意我們的服務協議";
 $_LANG['ordertostickconfirm'] = "請選中服務協議";
 
@@ -1081,7 +1081,7 @@ $_LANG['cartchoosecycle'] = "付款週期";
 $_LANG['cartavailableaddons'] = "可用增值服務";
 $_LANG['cartsetupfees'] = "初裝費";
 $_LANG['cartchooseanotherproduct'] = "選擇其它產品";
-$_LANG['cartaddandcheckout'] = "新增到購物車 & 結賬";
+$_LANG['cartaddandcheckout'] = "新增到購物車 & 結帳";
 $_LANG['cartchooseanothercategory'] = "選擇其它分類";
 $_LANG['carttryanotherdomain'] = "嘗試其它域名";
 $_LANG['cartmakedomainselection'] = "請向我們提供您希望使用的域名。";
@@ -1096,7 +1096,7 @@ $_LANG['recurringpromodesc'] = "此優惠碼還包含了迴圈折扣<br/>（該�
 
 # Version 4.5.2
 
-$_LANG['ajaxcartcheckout'] = "直接跳轉至結賬 &raquo;";
+$_LANG['ajaxcartcheckout'] = "直接跳轉至結帳 &raquo;";
 $_LANG['ordersummarybegin'] = "購物車是空的<br/>請選擇要開始購買產品或域名…";
 $_LANG['ajaxcartconfigreqnotice'] = "請繫結域名，更多的域名繫結可在控制面板操作！如果您沒有域名，請註冊一個新域名";
 
@@ -1661,7 +1661,7 @@ $_LANG['unabletolookup'] = "對不起，無法查詢提供的關鍵字";
 $_LANG['invalidchars'] = "請刪除空格或特殊符號";
 $_LANG['bulkoptions'] = "批次操作";
 $_LANG['checkingdomain'] = "檢查您輸入的域名是否可用…";
-$_LANG['domainsgotocheckout'] = "結賬";
+$_LANG['domainsgotocheckout'] = "結帳";
 $_LANG['domainssearchresults'] = "搜尋結果";
 $_LANG['domainssuggestions'] = "建議";
 $_LANG['domainsothersuggestions'] = "您可能對下列備選的名稱感興趣";
@@ -1826,8 +1826,8 @@ $_LANG['domainchecker']['suggestiontakenmsg'] = "您所選的域名不可用。�
 $_LANG['domainchecker']['suggestiontakenchooseanother'] = "選擇其它域名";
 
 $_LANG['domainchecker']['alreadyincarttitle'] = "已加入購物車";
-$_LANG['domainchecker']['alreadyincartmsg'] = "此域名已經新增到購物車。您可立即結賬完成您的購買。";
-$_LANG['domainchecker']['alreadyincartcheckoutnow'] = "立即結賬";
+$_LANG['domainchecker']['alreadyincartmsg'] = "此域名已經新增到購物車。您可立即結帳完成您的購買。";
+$_LANG['domainchecker']['alreadyincartcheckoutnow'] = "立即結帳";
 
 $_LANG['genericerror']['title'] = "不好意思，發生了一些錯誤！";
 $_LANG['genericerror']['msg'] = "請再試一次，如果問題仍然存在，請聯絡我們的技術人員。";
@@ -1924,7 +1924,7 @@ $_LANG['orderForm']['transferExistingDomain'] = "轉移您的域名到我們這�
 $_LANG['orderForm']['www'] = "www.";
 $_LANG['orderForm']['check'] = "檢查";
 $_LANG['orderForm']['returnToClientArea'] = "返回使用者中心";
-$_LANG['orderForm']['checkout'] = "結賬";
+$_LANG['orderForm']['checkout'] = "結帳";
 $_LANG['orderForm']['alreadyRegistered'] = "已經註冊？";
 $_LANG['orderForm']['createAccount'] = "新建帳戶";
 $_LANG['orderForm']['enterPersonalDetails'] = "請填寫您的個人資訊和帳單資訊";
@@ -1956,7 +1956,7 @@ $_LANG['orderForm']['continueToClientArea'] = "返回使用者中心";
 $_LANG['orderForm']['reviewDomainAndAddons'] = "請檢查您選擇的域名和可用於它們的附加產品。";
 $_LANG['orderForm']['addToCart'] = "新增到購物車";
 $_LANG['orderForm']['addedToCartRemove'] = "已加入購物車（移除）";
-$_LANG['orderForm']['configureDesiredOptions'] = "配置您需要的選項並結賬。";
+$_LANG['orderForm']['configureDesiredOptions'] = "配置您需要的選項並結帳。";
 $_LANG['orderForm']['haveQuestionsContact'] = "您有疑問？可以聯絡我們的工作人員。";
 $_LANG['orderForm']['haveQuestionsClickHere'] = "點選此處";
 $_LANG['orderForm']['use'] = "使用";
@@ -2547,7 +2547,7 @@ $_LANG['store']['websiteBuilder']['pricing']['features']['registration'] = "會�
 $_LANG['store']['websiteBuilder']['pricing']['features']['emailCampaigns'] = "電子郵件廣告系列";
 $_LANG['store']['websiteBuilder']['pricing']['features']['3pcFee'] = "3% Weebly 結算費用";
 $_LANG['store']['websiteBuilder']['pricing']['features']['tenProducts'] = "最多 10 個產品";
-$_LANG['store']['websiteBuilder']['pricing']['features']['checkoutOnWeebly'] = "去 Weebly.com 結賬";
+$_LANG['store']['websiteBuilder']['pricing']['features']['checkoutOnWeebly'] = "去 Weebly.com 結帳";
 $_LANG['store']['websiteBuilder']['pricing']['features']['twentyFiveProducts'] = "最多 25 個產品";
 $_LANG['store']['websiteBuilder']['pricing']['features']['0pcFee'] = "0% Weebly 結算費用";
 $_LANG['store']['websiteBuilder']['pricing']['features']['unlimitedProducts'] = "無限個產品";
@@ -2759,7 +2759,7 @@ $_LANG['paymentMethodsManage']['accountHolderName'] = "帳戶持有人姓名";
 $_LANG['paymentMethodsManage']['bankName'] = "銀行名稱";
 $_LANG['paymentMethodsManage']['sortCodeRoutingNumber'] = "排序程式碼/路由號";
 $_LANG['paymentMethodsManage']['routingNumberNotValid'] = "您輸入的路由號似乎無效.";
-$_LANG['paymentMethodsManage']['accountNumber'] = "賬號";
+$_LANG['paymentMethodsManage']['accountNumber'] = "帳號";
 $_LANG['paymentMethodsManage']['accountNumberNotValid'] = "您輸入的銀行帳號似乎無效.";
 $_LANG['paymentMethodsManage']['addNewAddress'] = "新增新地址";
 $_LANG['paymentMethodsManage']['addNewBillingAddress'] = "新增新帳單地址";
@@ -2924,7 +2924,7 @@ $_LANG['store']['ssl']['landingPage']['faq']['a5'] = "ev，或擴充套件驗證
 $_LANG['store']['ssl']['landingPage']['faq']['q6'] = "如果我已經有了ssl證書怎麼辦?";
 $_LANG['store']['ssl']['landingPage']['faq']['a6'] = "您可以隨時切換到我們。我們提供極具競爭力的定價，如果你已經有了現有的證書，我們將在你現有的競爭者SSL證書中新增任何剩餘的有效期，最多再增加12個月.";
 
-$_LANG['creditCardStore'] = "儲存卡以便將來更快結賬";
+$_LANG['creditCardStore'] = "儲存卡以便將來更快結帳";
 
 $_LANG['support']['ccRecipients'] = "抄送收件人";
 $_LANG['support']['addCcRecipients'] = "輸入電子郵件地址";
@@ -3021,8 +3021,8 @@ $_LANG['back'] = "返回";
 $_LANG['errors']['badRequest'] = "錯誤請求";
 $_LANG['errors']['badRequestTryAgain'] = "發生意外錯誤。請重試。";
 
-$_LANG['paymentMethods']['iban'] = "銀行賬號";
-$_LANG['paymentMethods']['mandateAcceptance'] = "透過提供您的銀行賬號並確認此付款，您即授權我們的付款服務提供商 :companyName 和 Stripe 向您的銀行傳送指令以從您的帳戶中扣款。根據您與銀行達成的協議條款和條件，您有權從銀行獲得退款。必須從您的帳戶扣款之日起 8 周內要求退款。";
+$_LANG['paymentMethods']['iban'] = "銀行帳號";
+$_LANG['paymentMethods']['mandateAcceptance'] = "透過提供您的銀行帳號並確認此付款，您即授權我們的付款服務提供商 :companyName 和 Stripe 向您的銀行傳送指令以從您的帳戶中扣款。根據您與銀行達成的協議條款和條件，您有權從銀行獲得退款。必須從您的帳戶扣款之日起 8 周內要求退款。";
 
 $_LANG['metrics']['title'] = "按量";
 $_LANG['metrics']['explanation'] = "：除了基本價格之外，該產品還有基於使用的計費方式。使用指標及其定價資訊如下所示。";
