@@ -1814,7 +1814,7 @@ $_LANG['upgrade'] = "升級";
 
 $_LANG['downdoadsdesc'] = "使用手冊，安裝程式和其它檔案";
 
-$_LANG['doToday'] = "您今天要做點什麼？";
+$_LANG['doToday'] = "歡迎使用 Coffee Host 超大咖託管";
 $_LANG['changeDomainNS'] = "更改您的域名的域名解析";
 $_LANG['updateWhoisContact'] = "更新您的域名 Whois 聯絡人資訊";
 $_LANG['changeRegLock'] = "更改您的域名鎖定狀態";
