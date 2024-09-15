@@ -1887,7 +1887,7 @@ $_LANG['projectManagement']['activeProjects'] = "您已啟用的專案";
 
 # cPanel Module
 
-$_LANG['packageDomain'] = "套餐/域名";
+$_LANG['packageDomain'] = "方案/域名";
 $_LANG['addonsExtras'] = "外掛和擴充套件";
 $_LANG['purchaseActivate'] = "購買和啟用";
 
@@ -1919,9 +1919,9 @@ $_LANG['cPanel']['create'] = "建立";
 $_LANG['cPanel']['emailAccountCreateSuccess'] = "郵箱帳戶建立成功！";
 $_LANG['cPanel']['emailAccountCreateFailed'] = "郵箱帳戶建立失敗：";
 
-$_LANG['cPanel']['packageNotActive'] = "此主機套餐目前";
+$_LANG['cPanel']['packageNotActive'] = "此主機方案目前";
 $_LANG['cPanel']['statusPendingNotice'] = "直至啟用之前您無法使用此主機帳戶。";
-$_LANG['cPanel']['statusSuspendedNotice'] = "直至重新啟用之前您無法使用或管理此套餐。";
+$_LANG['cPanel']['statusSuspendedNotice'] = "直至重新啟用之前您無法使用或管理此方案。";
 
 $_LANG['wpsquared']['login'] = "登入 WP Squared";
 
@@ -2024,7 +2024,7 @@ $_LANG['orderForm']['yes'] = "確定";
 $_LANG['orderForm']['cancel'] = "取消";
 $_LANG['orderForm']['close'] = "關閉";
 $_LANG['orderForm']['totals'] = "合計";
-$_LANG['orderForm']['includedWithPlans'] = "包含至每個套餐";
+$_LANG['orderForm']['includedWithPlans'] = "包含至每個方案";
 $_LANG['orderForm']['whatIsIncluded'] = "包含哪些？";
 $_LANG['orderForm']['errorNoProductGroup'] = "暫未新增任何產品組，敬請期待";
 $_LANG['orderForm']['errorNoProducts'] = "產品正在準備中, 尚未開放購買";
@@ -2132,9 +2132,9 @@ $_LANG['orderForm']['add'] = "新增";
 $_LANG['orderForm']['suggestedDomains'] = "建議的域名";
 $_LANG['orderForm']['generatingSuggestions'] = "為您生成建議";
 $_LANG['orderForm']['addHosting'] = "新增虛擬主機";
-$_LANG['orderForm']['chooseFromRange'] = "選擇虛擬主機套餐範圍";
-$_LANG['orderForm']['packagesForBudget'] = "我們設計了多種套餐以應對您的各種預算";
-$_LANG['orderForm']['exploreNow'] = "現在瀏覽套餐包";
+$_LANG['orderForm']['chooseFromRange'] = "選擇虛擬主機方案範圍";
+$_LANG['orderForm']['packagesForBudget'] = "我們設計了多種方案以應對您的各種預算";
+$_LANG['orderForm']['exploreNow'] = "現在瀏覽方案包";
 $_LANG['orderForm']['transferToUs'] = "轉移域名到我們這";
 $_LANG['orderForm']['transferExtend'] = "現在轉移延長您 1 年的使用期！";
 $_LANG['orderForm']['transferDomain'] = "轉移域名";
@@ -3440,7 +3440,7 @@ $_LANG['store']['threesixtymonitoring']['faq']['q6'] = "哪些位置支援監控
 $_LANG['store']['threesixtymonitoring']['faq']['a6'] = "您可以在世界任何地方進行監控，監控地點在澳大利亞、加拿大、芬蘭、法國、德國、日本、 墨西哥、荷蘭、瑞典、英國和美國。";
 $_LANG['store']['threesixtymonitoring']['faq']['q7'] = "支援哪些語言？";
 $_LANG['store']['threesixtymonitoring']['faq']['a7'] = "360 監控支援英語、德語、日語、西班牙語、義大利語、巴西葡萄牙語、法語和俄語。";
-$_LANG['store']['threesixtymonitoring']['faq']['q8'] = "我可以升級我的套餐嗎？";
+$_LANG['store']['threesixtymonitoring']['faq']['q8'] = "我可以升級我的方案嗎？";
 $_LANG['store']['threesixtymonitoring']['faq']['a8'] = "是的，您可以隨時升級您的計劃。";
 $_LANG['store']['threesixtymonitoring']['faq']['q9'] = "通知有額外費用嗎？";
 $_LANG['store']['threesixtymonitoring']['faq']['a9'] = "所有付費計劃都允許無限制的多渠道提醒。一些運營商可能會針對資料使用或 SMS 訊息收取額外費用。";
@@ -4288,7 +4288,7 @@ $_LANG['store']['siteBuilder']['featuresdescriptions']['store']['7'] = "庫存�
 $_LANG['store']['siteBuilder']['featuresdescriptions']['store']['8'] = "透過將您的線上商店與運營商公司聯絡起來，您可以在結賬時為您的客戶提供實時運營商費率如美國郵政、聯邦快遞、UPS、澳大利亞郵政、加拿大郵政等";
 $_LANG['store']['siteBuilder']['featuresdescriptions']['store']['9'] = "對任何國家應用稅收計算或定義特定區域。完全控制稅收計算。設定稅收每個位置，每組產品加稅，或設定免稅產品。";
 $_LANG['store']['siteBuilder']['featuresdescriptions']['store']['10'] = "透過電子郵件即時接收訂單通知。管理和檢視所有訂單的概覽、搜尋訂單、過濾他們按類別更新訂單、客戶資訊並新增發貨跟蹤號。";
-$_LANG['store']['siteBuilder']['viewPricing'] = "檢視價格和套餐";
+$_LANG['store']['siteBuilder']['viewPricing'] = "檢視價格和方案";
 $_LANG['store']['siteBuilder']['templatesTitle'] = "業務加速模板";
 $_LANG['store']['siteBuilder']['templatesOutro'] = "使用 Site Builder 檢視所有 150 多個模板，讓您快速輕鬆地開始使用。";
 $_LANG['store']['siteBuilder']['tryFree'] = "免費試用 Site Builder";

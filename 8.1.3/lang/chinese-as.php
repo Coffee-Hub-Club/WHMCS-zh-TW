@@ -1868,7 +1868,7 @@ $_LANG['projectManagement']['activeProjects'] = "您已啟用的專案";
 
 # cPanel Module
 
-$_LANG['cPanel']['packageDomain'] = "套餐/域名";
+$_LANG['cPanel']['packageDomain'] = "方案/域名";
 $_LANG['cPanel']['addonsExtras'] = "外掛和擴充套件";
 $_LANG['cPanel']['purchaseActivate'] = "購買和啟用";
 
@@ -1900,9 +1900,9 @@ $_LANG['cPanel']['create'] = "建立";
 $_LANG['cPanel']['emailAccountCreateSuccess'] = "郵箱帳戶建立成功！";
 $_LANG['cPanel']['emailAccountCreateFailed'] = "郵箱帳戶建立失敗：";
 
-$_LANG['cPanel']['packageNotActive'] = "此主機套餐目前";
+$_LANG['cPanel']['packageNotActive'] = "此主機方案目前";
 $_LANG['cPanel']['statusPendingNotice'] = "直至啟用之前您無法使用此主機帳戶。";
-$_LANG['cPanel']['statusSuspendedNotice'] = "直至重新啟用之前您無法使用或管理此套餐。";
+$_LANG['cPanel']['statusSuspendedNotice'] = "直至重新啟用之前您無法使用或管理此方案。";
 
 $_LANG['cPanel']['billingOverview'] = "結算概述";
 
@@ -2001,7 +2001,7 @@ $_LANG['orderForm']['yes'] = "確定";
 $_LANG['orderForm']['cancel'] = "取消";
 $_LANG['orderForm']['close'] = "關閉";
 $_LANG['orderForm']['totals'] = "合計";
-$_LANG['orderForm']['includedWithPlans'] = "包含至每個套餐";
+$_LANG['orderForm']['includedWithPlans'] = "包含至每個方案";
 $_LANG['orderForm']['whatIsIncluded'] = "包含哪些？";
 $_LANG['orderForm']['errorNoProductGroup'] = "暫未新增任何產品組，敬請期待";
 $_LANG['orderForm']['errorNoProducts'] = "產品正在準備中, 尚未開放購買";
@@ -2107,9 +2107,9 @@ $_LANG['orderForm']['add'] = "新增";
 $_LANG['orderForm']['suggestedDomains'] = "建議的域名";
 $_LANG['orderForm']['generatingSuggestions'] = "為您生成建議";
 $_LANG['orderForm']['addHosting'] = "新增虛擬主機";
-$_LANG['orderForm']['chooseFromRange'] = "選擇虛擬主機套餐範圍";
-$_LANG['orderForm']['packagesForBudget'] = "我們設計了多種套餐以應對您的各種預算";
-$_LANG['orderForm']['exploreNow'] = "現在瀏覽套餐包";
+$_LANG['orderForm']['chooseFromRange'] = "選擇虛擬主機方案範圍";
+$_LANG['orderForm']['packagesForBudget'] = "我們設計了多種方案以應對您的各種預算";
+$_LANG['orderForm']['exploreNow'] = "現在瀏覽方案包";
 $_LANG['orderForm']['transferToUs'] = "轉移域名到我們這";
 $_LANG['orderForm']['transferExtend'] = "現在轉移延長您 1 年的使用期！";
 $_LANG['orderForm']['transferDomain'] = "轉移域名";
