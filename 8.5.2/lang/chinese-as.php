@@ -41,7 +41,7 @@ $_LANG['affiliatesbalance'] = "目前餘額";
 $_LANG['affiliatesbullet1'] = "您的推廣帳戶將會獲得一筆啟動獎金為：";
 $_LANG['affiliatesbullet2'] = "您所推薦的每一個使用者在我們網站的帳戶每一筆付款";
 $_LANG['affiliatescommission'] = "佣金";
-$_LANG['affiliatesdescription'] = "加入我們的使用者推廣或檢視收入";
+$_LANG['affiliatesdescription'] = "加入我們的使用者推廣或查看收入";
 $_LANG['affiliatesdisabled'] = "我們目前沒有向我們的使用者提供推介系統。";
 $_LANG['affiliatesearn'] = "收益";
 $_LANG['affiliatesearningstodate'] = "目前總收入";
@@ -64,7 +64,7 @@ $_LANG['affiliatesWithdrawalRequestUnsuccessful'] = "您的提現請求不成功
 $_LANG['affiliateswithdrawn'] = "已提現的佣金總額";
 $_LANG['all'] = "全部";
 $_LANG['alreadyregistered'] = "已經註冊？";
-$_LANG['announcementsdescription'] = "檢視我們的最新新聞與公告";
+$_LANG['announcementsdescription'] = "查看我們的最新新聞與公告";
 $_LANG['announcementsnone'] = "沒有公告";
 $_LANG['announcementsrss'] = "RSS 訂閱";
 $_LANG['announcementstitle'] = "公告資訊";
@@ -75,7 +75,7 @@ $_LANG['bannedhasbeenbanned'] = "已經被禁止";
 $_LANG['bannedtitle'] = "IP 被禁止";
 $_LANG['bannedyourip'] = "您的 IP 地址";
 $_LANG['cartaddons'] = "附加服務";
-$_LANG['cartbrowse'] = "檢視產品與服務";
+$_LANG['cartbrowse'] = "查看產品與服務";
 $_LANG['cartconfigdomainextras'] = "設定額外域名";
 $_LANG['cartconfigoptionsdesc'] = "此產品/服務有一些額外選項，您可以從下面選擇來自定義您的訂單。";
 $_LANG['cartconfigserver'] = "伺服器設定";
@@ -150,7 +150,7 @@ $_LANG['clientareacurrentsecurityanswer'] = "請輸入您目前的答案";
 $_LANG['clientareacurrentsecurityquestion'] = "請選擇您目前的安全問題";
 $_LANG['clientareadeletecontact'] = "刪除聯絡人";
 $_LANG['clientareadeletecontactareyousure'] = "您確定要刪除此聯絡人？";
-$_LANG['clientareadescription'] = "檢視及更新您的帳戶詳細資料";
+$_LANG['clientareadescription'] = "查看及更新您的帳戶詳細資料";
 $_LANG['clientareadisklimit'] = "空間限制";
 $_LANG['clientareadiskusage'] = "已用空間";
 $_LANG['clientareadomainexpirydate'] = "到期日期";
@@ -192,7 +192,7 @@ $_LANG['clientareafullname'] = "使用者姓名";
 $_LANG['clientareaheader'] = "歡迎您來到我們的使用者中心，在這裡您可以瀏覽或更新個人資料、查詢您所購買的服務資訊、提交支援單與購買額外的產品和服務。此頁展示了任何開啟的支援單和未付款帳單的簡要總覽。請確保您的聯絡資訊是最新的。";
 $_LANG['clientareahostingaddons'] = "附加服務";
 $_LANG['clientareahostingaddonsintro'] = "您對本產品有以下外掛。";
-$_LANG['clientareahostingaddonsview'] = "檢視";
+$_LANG['clientareahostingaddonsview'] = "查看";
 $_LANG['clientareahostingamount'] = "數量";
 $_LANG['clientareahostingdomain'] = "域名";
 $_LANG['clientareahostingnextduedate'] = "下次付款日期";
@@ -211,11 +211,11 @@ $_LANG['clientareanavchangepw'] = "修改密碼";
 $_LANG['clientareanavdetails'] = "我的資料";
 $_LANG['clientareanavdomains'] = "我的域名";
 $_LANG['clientareanavhome'] = "使用者中心";
-$_LANG['clientareanavlogout'] = "退出帳戶";
+$_LANG['clientareanavlogout'] = "登出";
 $_LANG['clientareanavorder'] = "購買附加產品";
 $_LANG['clientareanavsecurityquestions'] = "修改安全問題";
 $_LANG['clientareanavservices'] = "我的服務";
-$_LANG['clientareanavsupporttickets'] = "我的客服單";
+$_LANG['clientareanavsupporttickets'] = "客服單";
 $_LANG['clientareanocontacts'] = "未發現任何聯絡人";
 $_LANG['clientareapassword'] = "密碼";
 $_LANG['clientareapending'] = "審核中";
@@ -240,11 +240,11 @@ $_LANG['clientareaterminated'] = "已終止";
 $_LANG['clientareaticktoenable'] = "選中核取方塊以啟用";
 $_LANG['clientareatitle'] = "使用者中心";
 $_LANG['clientareaunlimited'] = "所有";
-$_LANG['clientareaupdatebutton'] = "更新";
+$_LANG['clientareaupdatebutton'] = "修改資料";
 $_LANG['clientareaupdateyourdetails'] = "更新帳戶資料";
 $_LANG['clientareaused'] = "已使用";
 $_LANG['clientareaviewaddons'] = "附加服務";
-$_LANG['clientareaviewdetails'] = "檢視詳情";
+$_LANG['clientareaviewdetails'] = "查看詳情";
 $_LANG['clientarealanguage'] = "語言";
 $_LANG['clientlogin'] = "使用者登入";
 $_LANG['clientregisterheadertext'] = "請填寫下列內容以註冊一個新帳戶。";
@@ -388,13 +388,13 @@ $_LANG['domainunavailable2'] = "已經被使用！";
 $_LANG['domainreserved'] = "已保留";
 $_LANG['domainreserved1'] = "域名";
 $_LANG['domainreserved2'] = "可用，但已被保留。";
-$_LANG['domainviewwhois'] = "檢視 whois 資訊";
+$_LANG['domainviewwhois'] = "查看 whois 資訊";
 $_LANG['downloaddescription'] = "描述";
 $_LANG['downloadloginrequired'] = "拒絕訪問 - 您必須登入才能下載此檔案";
 $_LANG['downloadname'] = "下載";
 $_LANG['downloadpurchaserequired'] = "拒絕訪問 - 您必須購買相關的產品後才能下載本檔案";
 $_LANG['downloadscategories'] = "分類";
-$_LANG['downloadsdescription'] = "檢視下載目錄";
+$_LANG['downloadsdescription'] = "查看下載目錄";
 $_LANG['downloadsfiles'] = "檔案";
 $_LANG['downloadsfilesize'] = "檔案大小";
 $_LANG['downloadsintrotext'] = "下載庫中包含很多您在使用過程中可能用到的說明、演示、程式、影片等其它檔案。";
@@ -462,10 +462,10 @@ $_LANG['invoicestransid'] = "交易編號";
 $_LANG['invoicestransnonefound'] = "未找到相關交易";
 $_LANG['invoicesunpaid'] = "未付款";
 $_LANG['invoicesdraft'] = "已草稿";
-$_LANG['invoicesview'] = "檢視帳單";
+$_LANG['invoicesview'] = "查看帳單";
 $_LANG['jobtitle'] = "職稱";
 $_LANG['kbsuggestions'] = "常見問題";
-$_LANG['kbsuggestionsexplanation'] = "下列幫助中心中的文章可能會解決您的問題。請檢視後再提交。";
+$_LANG['kbsuggestionsexplanation'] = "下列幫助中心中的文章可能會解決您的問題。請查看後再提交。";
 $_LANG['knowledgebasearticles'] = "文章";
 $_LANG['knowledgebasecategories'] = "分類";
 $_LANG['nokbcategories'] = "分類不存在";
@@ -484,7 +484,7 @@ $_LANG['knowledgebaseratingtext'] = "使用者發現這個很有用";
 $_LANG['knowledgebaserelated'] = "相關文章";
 $_LANG['knowledgebasesearch'] = "搜尋";
 $_LANG['knowledgebasetitle'] = "幫助中心";
-$_LANG['knowledgebaseviews'] = "檢視次數";
+$_LANG['knowledgebaseviews'] = "查看次數";
 $_LANG['knowledgebasevote'] = "投票";
 $_LANG['knowledgebasevotes'] = "投票";
 $_LANG['knowledgebaseyes'] = "是";
@@ -503,7 +503,7 @@ $_LANG['loginpassword'] = "密碼";
 $_LANG['loginrememberme'] = "自動登入";
 $_LANG['logoutcontinuetext'] = "點此繼續";
 $_LANG['logoutsuccessful'] = "您已成功退出使用者中心。";
-$_LANG['logouttitle'] = "退出帳戶";
+$_LANG['logouttitle'] = "登出";
 $_LANG['maxmind_anonproxy'] = "我們不允許使用匿名代理來購買服務";
 $_LANG['maxmind_callingnow'] = "我們將自動撥打電話。這是我們防止欺詐措施的一部份。我們將給您一個四位數的安全程式碼，您需要在下面輸入這個程式碼完成訂單。";
 $_LANG['maxmind_countrymismatch'] = "您的 IP 地址與填寫的資料裡的國家不匹配，所以我們不能接受您的訂單。";
@@ -520,7 +520,7 @@ $_LANG['morechoices'] = "更多選擇";
 $_LANG['networkissuesaffecting'] = "影響";
 $_LANG['networkissuesaffectingyourservers'] = "請注意：被影響的伺服器上如果有您的帳戶，將用金色的背景高亮顯示。";
 $_LANG['networkissuesdate'] = "日期";
-$_LANG['networkissuesdescription'] = "檢視目前和計劃中的網路中斷";
+$_LANG['networkissuesdescription'] = "查看目前和計劃中的網路中斷";
 $_LANG['networkissueslastupdated'] = "最近更新";
 $_LANG['networkissuesnonefound'] = "沒有網路故障";
 $_LANG['networkissuespriority'] = "優先順序";
@@ -552,7 +552,7 @@ $_LANG['orderadditionalrequiredinfo'] = "附加資訊";
 $_LANG['orderaddon'] = "附加服務";
 $_LANG['orderaddondescription'] = "以下的附加服務對於此主機方案可用，請選擇您希望的購買的附加服務。";
 $_LANG['orderavailable'] = "可用";
-$_LANG['orderavailableaddons'] = "點選檢視可用附加服務";
+$_LANG['orderavailableaddons'] = "點選查看可用附加服務";
 $_LANG['orderbillingcycle'] = "帳單週期";
 $_LANG['ordercategories'] = "分類";
 $_LANG['orderchangeaddons'] = "變更附加服務";
@@ -564,7 +564,7 @@ $_LANG['ordercheckout'] = "結帳";
 $_LANG['orderchooseaddons'] = "選擇產品附加服務";
 $_LANG['orderchooseapackage'] = "選擇方案";
 $_LANG['ordercodenotfound'] = "您輸入的優惠碼不存在";
-$_LANG['ordercompletebutnotpaid'] = "注意！您的購買已經完成，但是您還沒有付款，所以產品不會啟用。<br/>點選下面的連結檢視您的帳單並付款。";
+$_LANG['ordercompletebutnotpaid'] = "注意！您的購買已經完成，但是您還沒有付款，所以產品不會啟用。<br/>點選下面的連結查看您的帳單並付款。";
 $_LANG['orderconfigpackage'] = "配置選項";
 $_LANG['orderconfigure'] = "配置";
 $_LANG['orderconfirmation'] = "訂單確認";
@@ -714,7 +714,7 @@ $_LANG['serverns1prefix'] = "NS1 字首";
 $_LANG['serverns2prefix'] = "NS2 字首";
 $_LANG['serverpassword'] = "密碼";
 $_LANG['serverrootpw'] = "Root 密碼";
-$_LANG['serverstatusdescription'] = "檢視伺服器執行狀態";
+$_LANG['serverstatusdescription'] = "查看伺服器執行狀態";
 $_LANG['serverstatusnoservers'] = "目前沒有伺服器被監控";
 $_LANG['serverstatusnotavailable'] = "不可用";
 $_LANG['serverstatusoffline'] = "離線";
@@ -766,7 +766,7 @@ $_LANG['supportticketsclientemail'] = "郵件地址";
 $_LANG['supportticketsclientname'] = "姓名";
 $_LANG['supportticketsdate'] = "日期";
 $_LANG['supportticketsdepartment'] = "部門";
-$_LANG['supportticketsdescription'] = "檢視並回復客服單";
+$_LANG['supportticketsdescription'] = "查看並回復客服單";
 $_LANG['supportticketserror'] = "錯誤";
 $_LANG['supportticketserrornoemail'] = "您沒有填寫您的郵箱";
 $_LANG['supportticketserrornomessage'] = "您沒有填寫內容";
@@ -793,7 +793,7 @@ $_LANG['supportticketssubmitticket'] = "提交客服單";
 $_LANG['supportticketssystemdescription'] = "客服單系統能夠讓我們儘快地回覆您的問題和疑問。當我們對您的客服單作出回應時，您將透過郵件得到通知。";
 $_LANG['supportticketsticketattachments'] = "附件";
 $_LANG['supportticketsticketcreated'] = "客服單已建立";
-$_LANG['supportticketsticketcreateddesc'] = "您的客服單已成功建立。一封關於客服單資訊的電子郵件已經傳送給您。如果您需要檢視這個客服單，現在就可以檢視了。";
+$_LANG['supportticketsticketcreateddesc'] = "您的客服單已成功建立。一封關於客服單資訊的電子郵件已經傳送給您。如果您需要查看這個客服單，現在就可以查看了。";
 $_LANG['supportticketsticketid'] = "客服單編號";
 $_LANG['supportticketsticketsubject'] = "主題";
 $_LANG['supportticketsticketsubmit'] = "提交";
@@ -803,7 +803,7 @@ $_LANG['supportticketsticketurgencylow'] = "低";
 $_LANG['supportticketsticketurgencymedium'] = "中";
 $_LANG['supportticketsuploadfailed'] = "無法上傳附件";
 $_LANG['supportticketsuploadtoolarge'] = "上傳的檔案太大。請嘗試上傳小一些的檔案。";
-$_LANG['supportticketsviewticket'] = "檢視客服單";
+$_LANG['supportticketsviewticket'] = "查看客服單";
 $_LANG['supportticketclosedmsg'] = "客服單已關閉。您可以回覆此客服單來重新開啟它";
 $_LANG['telesignincorrectpin'] = "錯誤的個人識別碼！";
 $_LANG['telesigninitiatephone'] = "我們無法驗證您的號碼，請與我們聯絡。";
@@ -845,14 +845,14 @@ $_LANG['varilogixfraudcall_fail'] = "您的訂單核實失敗。可能是您所�
 $_LANG['varilogixfraudcall_failed'] = "失敗";
 $_LANG['varilogixfraudcall_pincode'] = "個人識別碼";
 $_LANG['varilogixfraudcall_title'] = "VariLogix FraudCall 防欺詐電話認證";
-$_LANG['viewcart'] = "檢視購物車";
+$_LANG['viewcart'] = "查看購物車";
 $_LANG['welcomeback'] = "歡迎回來";
 $_LANG['whoisresults'] = "WHOIS 結果";
 $_LANG['yes'] = "是";
 $_LANG['yourdetails'] = "您的詳情";
 $_LANG['user'] = "使用者";
 $_LANG['loggedInAs'] = "登入身份";
-$_LANG['viewAllPricing'] = "檢視所有定價";
+$_LANG['viewAllPricing'] = "查看所有定價";
 $_LANG['default'] = "預設";
 $_LANG['maxFileSize'] = "最大檔案大小：:fileSize";
 
@@ -903,17 +903,17 @@ $_LANG['subaccountactivate'] = "開通子帳戶";
 $_LANG['subaccountactivatedesc'] = "設定子帳戶訪問許可權";
 $_LANG['subaccountpermissions'] = "子帳戶許可權";
 $_LANG['subaccountpermsprofile'] = "修改主帳戶資訊";
-$_LANG['subaccountpermscontacts'] = "檢視並管理聯絡資訊";
-$_LANG['subaccountpermsproducts'] = "檢視產品/服務";
-$_LANG['subaccountpermsmanageproducts'] = "檢視並修改產品密碼";
-$_LANG['subaccountpermsdomains'] = "檢視域名";
+$_LANG['subaccountpermscontacts'] = "查看並管理聯絡資訊";
+$_LANG['subaccountpermsproducts'] = "查看產品/服務";
+$_LANG['subaccountpermsmanageproducts'] = "查看並修改產品密碼";
+$_LANG['subaccountpermsdomains'] = "查看域名";
 $_LANG['subaccountpermsmanagedomains'] = "管理域名設定";
-$_LANG['subaccountpermsinvoices'] = "檢視並支付訂單";
-$_LANG['subaccountpermstickets'] = "檢視並提交技術支援";
-$_LANG['subaccountpermsaffiliates'] = "檢視並管理推廣帳戶";
-$_LANG['subaccountpermsemails'] = "檢視郵件";
+$_LANG['subaccountpermsinvoices'] = "查看並支付訂單";
+$_LANG['subaccountpermstickets'] = "查看並提交技術支援";
+$_LANG['subaccountpermsaffiliates'] = "查看並管理推廣帳戶";
+$_LANG['subaccountpermsemails'] = "查看郵件";
 $_LANG['subaccountpermsorders'] = "產品購買/產品升級/產品取消";
-$_LANG['subaccountpermissiondenied'] = "您沒許可權檢視這個頁面";
+$_LANG['subaccountpermissiondenied'] = "您沒許可權查看這個頁面";
 $_LANG['subaccountallowedperms'] = "您批准的許可權為：";
 $_LANG['subaccountcontactmaster'] = "請聯絡管理員。";
 $_LANG['subaccountSsoDenied'] = "您沒有許可權使用單點登入。";
@@ -960,7 +960,7 @@ $_LANG['vpsnethourly'] = "小時";
 $_LANG['vpsnetdaily'] = "天";
 $_LANG['vpsnetweekly'] = "星期";
 $_LANG['vpsnetmonthly'] = "月";
-$_LANG['view'] = "檢視";
+$_LANG['view'] = "查看";
 $_LANG['vpsnetbackups'] = "備份設定";
 $_LANG['vpsnetgenbackup'] = "生成備份";
 $_LANG['vpsnetrestorebackup'] = "恢復備份";
@@ -1036,16 +1036,16 @@ $_LANG['orderpromoprestart'] = "這個優惠還未開始，請稍後重試。";
 
 $_LANG['ticketmerge'] = "合併";
 
-$_LANG['quote'] = "報價";
-$_LANG['quotestitle'] = "我的報價";
-$_LANG['quoteview'] = "檢視";
-$_LANG['quotedownload'] = "檢視/下載";
-$_LANG['quoteacceptbtn'] = "接受報價";
+$_LANG['quote'] = "報價單";
+$_LANG['quotestitle'] = "我的報價單";
+$_LANG['quoteview'] = "查看";
+$_LANG['quotedownload'] = "查看/下載";
+$_LANG['quoteacceptbtn'] = "接受報價單";
 $_LANG['quotedlpdfbtn'] = "下載 PDF";
 $_LANG['quotediscountheading'] = "優惠(%)";
-$_LANG['noquotes'] = "目前您的帳戶沒報價單。<br/>如果您需要請求報價，請提交客服單。";
+$_LANG['noquotes'] = "目前您的帳戶沒報價單。<br/>如果您需要請求報價單，請提交客服單。";
 $_LANG['quotenumber'] = "報價單 #";
-$_LANG['quotesubject'] = "報價主題";
+$_LANG['quotesubject'] = "報價單主題";
 $_LANG['quotedatecreated'] = "建立日期";
 $_LANG['quotevaliduntil'] = "有效期至";
 $_LANG['quotestage'] = "階段";
@@ -1206,7 +1206,7 @@ $_LANG['bundlewarningdomainaddon'] = "所選的捆綁需要您選擇“%s”附�
 
 # New Client Area Template  Lines
 
-$_LANG['navservices'] = "產品服務";
+$_LANG['navservices'] = "服務";
 $_LANG['navservicesorder'] = "購買服務";
 $_LANG['navservicesplaceorder'] = "購買服務";
 $_LANG['navdomains'] = "域名";
@@ -1217,7 +1217,7 @@ $_LANG['navdomainsearch'] = "域名搜尋";
 $_LANG['navbilling'] = "帳務管理";
 $_LANG['navinvoices'] = "帳單管理";
 $_LANG['navsupport'] = "技術支援";
-$_LANG['navtickets'] = "我的客服單";
+$_LANG['navtickets'] = "客服單";
 $_LANG['navopenticket'] = "提交客服單";
 $_LANG['navmanagecc'] = "管理信用卡";
 $_LANG['navemailssent'] = "郵件存檔";
@@ -1238,7 +1238,7 @@ $_LANG['paymentmethoddefault'] = "使用預設值（每個訂單單獨設定）"
 $_LANG['productmanagementactions'] = "管理產品";
 $_LANG['clientareanoaddons'] = "本帳戶無任何附加服務";
 $_LANG['downloadssearch'] = "搜尋下載";
-$_LANG['emailviewmessage'] = "檢視訊息";
+$_LANG['emailviewmessage'] = "查看訊息";
 $_LANG['resultsperpage'] = "每頁顯示條數";
 $_LANG['accessdenied'] = "拒絕訪問";
 $_LANG['search'] = "搜尋";
@@ -1248,7 +1248,7 @@ $_LANG['backtoserviceslist'] = "&laquo; 返回產品列表";
 $_LANG['backtodomainslist'] = "&laquo; 返回域名列表";
 $_LANG['copy'] = "複製";
 
-$_LANG['clientareahomeorder'] = "檢視可購買的產品與服務，現有使用者也可以在此處購買產品與附加服務。";
+$_LANG['clientareahomeorder'] = "查看可購買的產品與服務，現有使用者也可以在此處購買產品與附加服務。";
 $_LANG['clientareahomelogin'] = "已經註冊？點選下面的按鈕登入使用者中心管理您的帳戶。";
 $_LANG['clientareahomeorderbtn'] = "購買其它服務";
 $_LANG['clientareahomeloginbtn'] = "登入使用者中心";
@@ -1257,11 +1257,11 @@ $_LANG['clientareaproductsintro'] = "您帳戶下的產品列表";
 $_LANG['clientareaproductdetailsintro'] = "下面是您的產品/服務概覽";
 $_LANG['clientareadomainsintro'] = "您帳戶下的域名列表";
 $_LANG['quotesintro'] = "此處為我們為您生成的所有報價單";
-$_LANG['emailstagline'] = "您可以檢視我們傳送給您的郵件備份存檔";
-$_LANG['supportticketsintro'] = "您可以在這裡提交、檢視和回覆您的客服單";
+$_LANG['emailstagline'] = "您可以查看我們傳送給您的郵件備份存檔";
+$_LANG['supportticketsintro'] = "您可以在這裡提交、查看和回覆您的客服單";
 $_LANG['addfundsintro'] = "您可以預先儲值資金至帳戶餘額中";
 $_LANG['registerintro'] = "註冊帳戶…";
-$_LANG['networkstatusintro'] = "您可以檢視伺服器線上狀態和網路維護公告";
+$_LANG['networkstatusintro'] = "您可以查看伺服器線上狀態和網路維護公告";
 
 $_LANG['creditcardyourinfo'] = "帳單資訊";
 $_LANG['ourlatestnews'] = "最新公告";
@@ -1305,7 +1305,7 @@ $_LANG['searchmultipletlds'] = "批次搜尋域名字尾";
 
 $_LANG['networkstatustitle'] = "服務監控";
 $_LANG['networkstatusnone'] = "目前 %s 沒有任何網路問題";
-$_LANG['serverstatusheadingtext'] = "以下是我們的伺服器的實時概覽。您可以透過該頁面來檢視我們伺服器提供的所有服務是否工作正常（僅供參考，以實際情況和官方公告為準）。";
+$_LANG['serverstatusheadingtext'] = "以下是我們的伺服器的實時概覽。您可以透過該頁面來查看我們伺服器提供的所有服務是否工作正常（僅供參考，以實際情況和官方公告為準）。";
 
 $_LANG['clientareacancelreasonrequired'] = "您必須輸入取消的原因！";
 
@@ -1489,8 +1489,8 @@ $_LANG['disable'] = "停用";
 $_LANG['manage'] = "管理";
 
 # Version 5.3
-$_LANG['quoteacceptancetitle'] = "接受報價";
-$_LANG['quoteacceptancehowto'] = "接受此報價，請先確認您已檢視並接受我們的使用者條款 @";
+$_LANG['quoteacceptancetitle'] = "接受報價單";
+$_LANG['quoteacceptancehowto'] = "接受此報價單，請先確認您已查看並接受我們的使用者條款 @";
 $_LANG['quoteacceptancewarning'] = "請注意，接受報價單認為是簽訂了一個合同，您一旦接受無法取消。";
 
 $_LANG['contactform'] = "聯絡表單";
@@ -1587,7 +1587,7 @@ $_LANG['registersecurityquestionblurb'] = "設定安全問題將獲得更高的�
 
 $_LANG['update'] = "更新";
 $_LANG['yourinfo'] = "您的資訊";
-$_LANG['shortcuts'] = "快捷連結";
+$_LANG['shortcuts'] = "捷徑";
 
 $_LANG['yourservices'] = "您的服務";
 $_LANG['yourdomains'] = "您的域名";
@@ -1597,8 +1597,8 @@ $_LANG['billingdetails'] = "帳單資訊";
 $_LANG['homechooseproductservice'] = "選擇要管理的產品/服務";
 
 $_LANG['invoicesdue'] = "到期的帳單";
-$_LANG['invoicesduemsg'] = "您有 %s 個未付款的帳單，合計 %s";
-$_LANG['noinvoicesduemsg'] = "您有現在沒有未付款的帳單。";
+$_LANG['invoicesduemsg'] = "您有 %s 個未支付帳單，合計 %s";
+$_LANG['noinvoicesduemsg'] = "您有現在沒有未支付帳單。";
 
 $_LANG['expiringsoon'] = "即將到期";
 
@@ -1610,7 +1610,7 @@ $_LANG['myaccount'] = "我的帳戶";
 $_LANG['manageproduct'] = "管理產品";
 $_LANG['overview'] = "概覽";
 $_LANG['servername'] = "伺服器名稱";
-$_LANG['visitwebsite'] = "檢視站點";
+$_LANG['visitwebsite'] = "查看站點";
 $_LANG['whoisinfo'] = "WHOIS 資訊";
 
 $_LANG['tableshowing'] = "共有 _TOTAL_ 項，正在展示第 _START_ 到 _END_ 項";
@@ -1641,7 +1641,7 @@ $_LANG['notificationsnone'] = "目前沒有新通知。";
 
 $_LANG['creditcardnonestored'] = "檔案中無信用卡";
 
-$_LANG['kbviewingarticlestagged'] = "檢視文章標籤";
+$_LANG['kbviewingarticlestagged'] = "查看文章標籤";
 
 $_LANG['domainprivatenameservers'] = "私人域名伺服器";
 
@@ -1659,7 +1659,7 @@ $_LANG['getsupport'] = "請求幫助";
 
 $_LANG['news'] = "最新公告";
 $_LANG['allthelatest'] = "所有公告，來自";
-$_LANG['readmore'] = "檢視更多";
+$_LANG['readmore'] = "查看更多";
 $_LANG['noannouncements'] = "無公告顯示";
 
 $_LANG['kbsearchexplain'] = "您有疑問？在這裡尋找答案。";
@@ -1690,7 +1690,7 @@ $_LANG['disclaimers'] = "免責宣告";
 $_LANG['tldpricing'] = "頂級域名價格";
 $_LANG['alltldpricing'] = "所有頂級域名價格";
 
-$_LANG['quotesdesc'] = "我們已為您提供報價";
+$_LANG['quotesdesc'] = "我們已為您提供報價單";
 $_LANG['quotesrejected'] = "拒絕";
 
 $_LANG['ticketsyourhistory'] = "客服單記錄";
@@ -1734,7 +1734,7 @@ $_LANG['cancellationrequested'] = "取消請求";
 $_LANG['yourrecenttickets'] = "您的最近客服單";
 
 $_LANG['domains']['deTermsDescription1'] = "註冊新域名，轉移或更改註冊人資訊，註冊人必須明確接受 .DE 的條款和條件。";
-$_LANG['domains']['deTermsDescription2'] = "（檢視完整的 .de 條款和條件：http://www.denic.de/en/bedingungen.html）";
+$_LANG['domains']['deTermsDescription2'] = "（查看完整的 .de 條款和條件：http://www.denic.de/en/bedingungen.html）";
 $_LANG['directDebitPageTitle'] = "直接支付帳單";
 $_LANG['directDebitHeader'] = "直接支付帳單";
 $_LANG['directDebitErrorNoBankName'] = "您必須輸入銀行名稱";
@@ -1756,7 +1756,7 @@ $_LANG['directDebitSavings'] = "儲存";
 
 $_LANG['outOfStockProductRemoved'] = "過期的產品將會自動從購物車中移除";
 
-$_LANG['subaccountpermsquotes'] = "檢視和接受報價";
+$_LANG['subaccountpermsquotes'] = "查看和接受報價單";
 
 $_LANG['chooselanguage'] = "選擇語言";
 
@@ -1765,27 +1765,27 @@ $_LANG['error'] = "錯誤";
 $_LANG['print'] = "列印";
 $_LANG['invoicelineitems'] = "帳單專案";
 
-$_LANG['quotelineitems'] = "報價專案";
+$_LANG['quotelineitems'] = "報價單專案";
 
 $_LANG['quoteproposal'] = "建議";
-$_LANG['quoteacceptagreetos'] = "接受報價，請先接受我們的服務條款";
+$_LANG['quoteacceptagreetos'] = "接受報價單，請先接受我們的服務條款";
 $_LANG['quoteacceptcontractwarning'] = "請注意，接受報價單將被視為是簽訂了一個合同，您一旦接受後將無法取消。";
 
 // Client alerts
 $_LANG['clientAlerts']['creditCardExpiring'] = "您的信用卡 :creditCardType-:creditCardLastFourDigits 將於 :days 天后到期。請您儘快更新。";
 $_LANG['clientAlerts']['domainsExpiringSoon'] = "您目前有 :numberOfDomains 個域名將於 :days 天后到期。";
-$_LANG['clientAlerts']['invoicesUnpaid'] = "您目前有 :numberOfInvoices 個未付款的帳單，請儘快支付。";
+$_LANG['clientAlerts']['invoicesUnpaid'] = "您目前有 :numberOfInvoices 個未支付帳單，請儘快支付。";
 $_LANG['clientAlerts']['invoicesOverdue'] = "您目前有 :numberOfInvoices 個過期帳單，合計 :balanceDue。請儘快支付，以免服務被取消。";
 $_LANG['clientAlerts']['creditBalance'] = "您目前的餘額為：:creditBalance。";
 
 // Client homepage panels
-$_LANG['clientHomePanels']['unpaidInvoices'] = "未付款的帳單";
-$_LANG['clientHomePanels']['unpaidInvoicesMsg'] = "您目前有 :numberOfInvoices 個未付款的帳單，合計 :balanceDue 請儘快支付。";
+$_LANG['clientHomePanels']['unpaidInvoices'] = "未支付帳單";
+$_LANG['clientHomePanels']['unpaidInvoicesMsg'] = "您目前有 :numberOfInvoices 個未支付帳單，合計 :balanceDue 請儘快支付。";
 $_LANG['clientHomePanels']['overdueInvoices'] = "逾期的帳單";
 $_LANG['clientHomePanels']['overdueInvoicesMsg'] = "您目前有 :numberOfInvoices 個過期帳單，合計 :balanceDue 請儘快支付，以免服務被取消。";
 $_LANG['clientHomePanels']['domainsExpiringSoon'] = "域名即將過期";
 $_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "您目前有 :numberOfDomains 個域名將於 :days 天后過期，請儘快續期，以免被登出。";
-$_LANG['clientHomePanels']['activeProductsServices'] = "您已啟用的產品/服務";
+$_LANG['clientHomePanels']['activeProductsServices'] = "您目前可用的產品與服務";
 $_LANG['clientHomePanels']['activeProductsServicesNone'] = "看來您還沒有購買我們的產品呢。<a href=\"cart.php\">來選一個吧</a>？";
 $_LANG['clientHomePanels']['recentNews'] = "最近的訊息";
 $_LANG['clientHomePanels']['affiliateProgram'] = "推廣計劃";
@@ -1795,7 +1795,7 @@ $_LANG['clientHomePanels']['affiliateSummary'] = "您已經透過推廣賺到了
 $_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "您目前的佣金餘額為 :commissionBalance，您現在可以提現了。";
 $_LANG['clientHomePanels']['productsAndServices'] = "瀏覽我們的產品/服務";
 
-$_LANG['upgradeNotPossible'] = "無法升級此產品。如果您認為錯誤的跳轉到了此頁面，請聯絡我們的支援部門。否則請返回並仔細檢視您的選項。";
+$_LANG['upgradeNotPossible'] = "無法升級此產品。如果您認為錯誤的跳轉到了此頁面，請聯絡我們的支援部門。否則請返回並仔細查看您的選項。";
 $_LANG['upgradeSameProductMustExtendCycle'] = "要升級結算週期，請選擇一個大於目前結算週期的週期。";
 
 $_LANG['hostingInfo'] = "主機資訊";
@@ -1821,7 +1821,7 @@ $_LANG['goback'] = "返回";
 $_LANG['returnhome'] = "返回主頁";
 $_LANG['blankCustomField'] = "（無預設值）";
 
-$_LANG['viewAll'] = "檢視全部";
+$_LANG['viewAll'] = "查看全部";
 $_LANG['moreDetails'] = "更多資訊";
 
 $_LANG['clientHomeSearchKb'] = "在此處輸入問題尋找答案…";
@@ -1914,7 +1914,7 @@ $_LANG['billingOverview'] = "結算概述";
 
 $_LANG['liveHelp']['chatNow'] = "立即交談";
 
-$_LANG['quotes'] = "報價";
+$_LANG['quotes'] = "報價單";
 
 $_LANG['productMustBeActiveForModuleCmds'] = "產品必須啟用才能執行此操作";
 $_LANG['domainCannotBeManagedUnlessActive'] = "該域名目前尚未啟用。直至啟用之前您無法管理域名。";
@@ -1922,7 +1922,7 @@ $_LANG['domainCannotBeManagedUnlessActive'] = "該域名目前尚未啟用。直
 $_LANG['actionRequiresAtLeastOneDomainSelected'] = "請至少選擇一個域名來執行所選的操作。";
 
 $_LANG['clientAreaProductDownloadsAvailable'] = "您的產品/服務可下載下面的專案";
-$_LANG['clientAreaProductAddonsAvailable'] = "您的產品/服務可使用外掛 <a href=\"cart.php?gid=addons\">點此檢視併購買 &raquo;</a>";
+$_LANG['clientAreaProductAddonsAvailable'] = "您的產品/服務可使用外掛 <a href=\"cart.php?gid=addons\">點此查看併購買 &raquo;</a>";
 $_LANG['clientAreaSecurityTwoFactorAuthRecommendation'] = "我們強烈建議您啟用兩步驗證來增加安全性";
 $_LANG['clientAreaSecurityNoSecurityQuestions'] = "設定安全問題和答案可以幫助保護您的帳戶防止未經授權的密碼重置，並且當請求更改帳戶時允許我們驗證您的身份。";
 $_LANG['clientAreaSecuritySecurityQuestionOtherError'] = "安全問題和答案可以幫助保護您的帳戶防止未經授權的密碼重置，並且當請求更改帳戶時允許我們驗證您的身份。";
@@ -2046,7 +2046,7 @@ $_LANG['sso']['summary'] = "第三方應用程式可以利用單點登入功能�
 $_LANG['sso']['disablenotice'] = "您可能希望停用此功能，如果您不希望您提供訪問使用者許可權的任何第三方應用程式能夠訪問您的付款帳戶。";
 $_LANG['sso']['enabled'] = "您的帳戶目前已允許單點登入。";
 $_LANG['sso']['disabled'] = "您的帳戶目前已停用單點登入。";
-$_LANG['sso']['redirectafterlogin'] = "您將會在登入後重定向";
+$_LANG['sso']['redirectafterlogin'] = "您將會在登入後重新導向";
 
 $_LANG['oauth']['badTwoFactorAuthModule'] = "兩步驗證模組損壞。請聯絡技術支援。";
 $_LANG['oauth']['permAccessNameAndEmail'] = "訪問您的姓名和郵件地址";
@@ -2099,7 +2099,7 @@ $_LANG['oauth']['notYou'] = "不是您？";
 $_LANG['oauth']['returnToApp'] = "返回到 :appName";
 $_LANG['oauth']['copyrightFooter'] = "版權所有 &copy; :dateYear :companyName 保留所有權利。";
 $_LANG['oauth']['loginToGrantApp'] = "登入授予 :appName<br/>訪問您的帳戶";
-$_LANG['oauth']['redirectDescriptionOne'] = "將您重定向回應用程式。這可能會花費一段時間";
+$_LANG['oauth']['redirectDescriptionOne'] = "將您重新導向回應用程式。這可能會花費一段時間";
 $_LANG['oauth']['redirectDescriptionTwo'] = "假如您的瀏覽器沒有跳轉，請";
 $_LANG['oauth']['redirectDescriptionThree'] = "點此繼續";
 $_LANG['downloadLoginRequiredTagline'] = "請登入請求下載檔案";
@@ -2293,7 +2293,7 @@ $_LANG['remoteAuthn']['unlinked'] = "已取消連結！";
 $_LANG['remoteAuthn']['unavailable'] = "目前無法使用。請稍後重試。";
 $_LANG['remoteAuthn']['connectError'] = "我們無法連線您的帳戶。請聯絡您的系統管理員。";
 $_LANG['remoteAuthn']['completeSignIn'] = "請使用您選擇的服務提供商完成登入。";
-$_LANG['remoteAuthn']['redirecting'] = "自動登入成功！正在重定向…";
+$_LANG['remoteAuthn']['redirecting'] = "自動登入成功！正在重新導向…";
 $_LANG['remoteAuthn']['accountNowLinked'] = "您的帳戶現在與您的 :displayName 帳戶關聯。";
 $_LANG['remoteAuthn']['oneTimeAuthRequired'] = "請完成登入，將此服務與現有的帳戶關聯。您只需要操作一次。";
 $_LANG['remoteAuthn']['completeRegistrationForm'] = "請填寫下面的登錄檔格。";
@@ -2633,7 +2633,7 @@ $_LANG['domains']['resendNotificationSuccess'] = "驗證郵件已經傳送。";
 $_LANG['domains']['modifyPending'] = "需要驗證";
 $_LANG['domains']['changePending'] = "需要驗證才能完成您的更改。所有權驗證郵件已經傳送到 :email。請點選郵件中的連結以允許修改。";
 $_LANG['domains']['changePendingDate'] = "需要驗證才能完成您的更改。所有權驗證郵件已經傳送到 :email。請在 :days 天內點選郵件中的連結以允許修改。";
-$_LANG['domains']['changePendingFormRequired'] = "您的註冊人聯絡資訊更改提交成功。要完成此過程，您需要填寫<strong>更改註冊人</ strong>表單。請檢視 :form，按照說明填寫表單並將其返回給我們以完成整個流程。";
+$_LANG['domains']['changePendingFormRequired'] = "您的註冊人聯絡資訊更改提交成功。要完成此過程，您需要填寫<strong>更改註冊人</ strong>表單。請查看 :form，按照說明填寫表單並將其返回給我們以完成整個流程。";
 
 $_LANG['getStartedNow'] = "立即開始";
 $_LANG['notificationsnew'] = "新";
@@ -2711,7 +2711,7 @@ $_LANG['store']['websiteBuilder']['upgrade']['title'] = "Weebly 升級";
 $_LANG['store']['websiteBuilder']['upgrade']['required'] = "需要升級";
 $_LANG['store']['websiteBuilder']['upgrade']['requiredDescription'] = "要訪問您請求的功能，您需要升級 Weebly Site Builder 方案";
 $_LANG['store']['websiteBuilder']['upgrade']['recommended'] = "顯示推薦方案。";
-$_LANG['store']['websiteBuilder']['upgrade']['login'] = "要檢視可用選項，請登入。";
+$_LANG['store']['websiteBuilder']['upgrade']['login'] = "要查看可用選項，請登入。";
 $_LANG['store']['websiteBuilder']['upgrade']['no'] = "無升級可用";
 $_LANG['store']['websiteBuilder']['upgrade']['noUpgrade'] = "目前無更新可用。";
 $_LANG['store']['websiteBuilder']['upgrade']['submitTicket'] = "聯絡技術支援";
@@ -2882,7 +2882,7 @@ $_LANG['paymentMethods']['deletePaymentMethodConfirm'] = "確定要刪除此付�
 $_LANG['paymentMethods']['type'] = "型別";
 $_LANG['paymentMethods']['requestCancelled'] = "已取消付款方式請求";
 $_LANG['paymentMethods']['retry'] = "重試";
-$_LANG['paymentMethods']['creditCardChangesWontBeReflected'] = "您在這裡所做的更改將被儲存，但在檢視我們的客戶區域內的付款方法時，不會反映所有更改。";
+$_LANG['paymentMethods']['creditCardChangesWontBeReflected'] = "您在這裡所做的更改將被儲存，但在查看我們的客戶區域內的付款方法時，不會反映所有更改。";
 
 $_LANG['paymentMethodsManage']['editPaymentMethod'] = "編輯付款方式";
 $_LANG['paymentMethodsManage']['addPaymentMethod'] = "新增新付款方式";
@@ -2954,7 +2954,7 @@ $_LANG['store']['ssl']['competitiveUpgrades']['exampleScenario'] = "示例場景
 $_LANG['store']['ssl']['competitiveUpgrades']['example']['line1'] = "您目前的2年期證書還有11個月可以執行.";
 $_LANG['store']['ssl']['competitiveUpgrades']['example']['line2'] = "您進行了切換,您的新證書將在<strong>1年11個月內有效</strong>.";
 $_LANG['store']['ssl']['competitiveUpgrades']['example']['line3'] = "新證書的費用將<strong>僅為</strong> 1年.";
-$_LANG['store']['ssl']['competitiveUpgrades']['eligibilityCheck'] = "此特殊升級優惠適用於由受支援的競爭對手ssl提供程式之一頒發的ssl證書*。在下面輸入您的域名以驗證您的資格，並檢視您可以節省多少.";
+$_LANG['store']['ssl']['competitiveUpgrades']['eligibilityCheck'] = "此特殊升級優惠適用於由受支援的競爭對手ssl提供程式之一頒發的ssl證書*。在下面輸入您的域名以驗證您的資格，並查看您可以節省多少.";
 $_LANG['store']['ssl']['competitiveUpgrades']['checkFailed'] = "無法連線到驗證API.請稍後再試或與支援部門聯絡.";
 $_LANG['store']['ssl']['competitiveUpgrades']['eligible'] = "恭喜！您的域有資格享受賽門鐵克競爭性升級優惠.";
 $_LANG['store']['ssl']['competitiveUpgrades']['expirationDate'] = "目前到期日期";
@@ -3045,7 +3045,7 @@ $_LANG['store']['ssl']['landingPage']['help']['ev']['compliance'] = "維護瀏�
 $_LANG['store']['ssl']['landingPage']['help']['ev']['for'] = "非常適合敏感網頁，包括電子商務、線上銀行、帳戶註冊";
 $_LANG['store']['ssl']['landingPage']['help']['ev']['type'] = "把ev想象成一個護照，比使用圖書館卡或駕照更嚴格的流程、更長的交貨期和更多的身份驗證。被國際公認為最值得信賴的身份驗證方式.";
 $_LANG['store']['ssl']['landingPage']['help']['ev']['browse'] = "瀏覽擴充套件驗證證書";
-$_LANG['store']['ssl']['landingPage']['viewAll'] = "檢視所有ssl證書";
+$_LANG['store']['ssl']['landingPage']['viewAll'] = "查看所有ssl證書";
 $_LANG['store']['ssl']['landingPage']['buyNow'] = "立即購買";
 $_LANG['store']['ssl']['landingPage']['faq']['title'] = "FAQ";
 $_LANG['store']['ssl']['landingPage']['faq']['q1'] = "什麼是ssl證書？";
@@ -3172,7 +3172,7 @@ $_LANG['metrics']['startingQuantity'] = "起始數量";
 $_LANG['metrics']['unit'] = "單位";
 $_LANG['metrics']['pricePerUnit'] = "單價";
 $_LANG['metrics']['pricePer'] = "單價";
-$_LANG['metrics']['viewPricing'] = "檢視價格";
+$_LANG['metrics']['viewPricing'] = "查看價格";
 $_LANG['metrics']['pricing'] = "價格";
 $_LANG['metrics']['startingFrom'] = "開始";
 $_LANG['metrics']['pricingschema']['simple']['info'] = "這個專案有一個單一的價格結構";
@@ -3253,7 +3253,7 @@ $_LANG['store']['marketgoo']['features']['3'] = "按照簡單的步驟操作";
 $_LANG['store']['marketgoo']['features']['4'] = "開始改善";
 $_LANG['store']['marketgoo']['featuresdetail']['4'] = "將您的SEO計劃執行起來，並獲得每月進度報告";
 $_LANG['store']['marketgoo']['features']['5'] = "跟蹤和監控";
-$_LANG['store']['marketgoo']['featuresdetail']['5'] = "檢視競爭對手對你關注的關鍵字的排名，並跟蹤他們網站的受歡迎程度";
+$_LANG['store']['marketgoo']['featuresdetail']['5'] = "查看競爭對手對你關注的關鍵字的排名，並跟蹤他們網站的受歡迎程度";
 $_LANG['store']['marketgoo']['featurematrix']['1'] = "搜尋引擎提交";
 $_LANG['store']['marketgoo']['featurematrix']['2'] = "連線Google Analytics（分析）";
 $_LANG['store']['marketgoo']['featurematrix']['3'] = "將SEO報告下載為PDF";
@@ -3478,16 +3478,16 @@ $_LANG['clientareanavcontacts'] = "聯絡人";
 
 $_LANG['permissions']['descriptions']['profile'] = "訪問和修改客戶資料資訊";
 $_LANG['permissions']['descriptions']['contacts'] = "訪問和管理聯絡人";
-$_LANG['permissions']['descriptions']['products'] = "檢視對產品，服務和附加元件的訪問";
+$_LANG['permissions']['descriptions']['products'] = "查看對產品，服務和附加元件的訪問";
 $_LANG['permissions']['descriptions']['manageproducts'] = "允許重置密碼和其他操作";
 $_LANG['permissions']['descriptions']['productsso'] = "允許單點登入服務";
-$_LANG['permissions']['descriptions']['domains'] = "檢視對域名註冊的訪問許可權";
+$_LANG['permissions']['descriptions']['domains'] = "查看對域名註冊的訪問許可權";
 $_LANG['permissions']['descriptions']['managedomains'] = "允許管理域名，例如，名稱伺服器/域名/轉移/域名";
-$_LANG['permissions']['descriptions']['invoices'] = "檢視和付款帳單";
-$_LANG['permissions']['descriptions']['quotes'] = "檢視和接受報價的許可權";
+$_LANG['permissions']['descriptions']['invoices'] = "查看和付款帳單";
+$_LANG['permissions']['descriptions']['quotes'] = "查看和接受報價單的許可權";
 $_LANG['permissions']['descriptions']['tickets'] = "開啟，響應和管理支援票的許可權";
-$_LANG['permissions']['descriptions']['affiliates'] = "檢視和請求提現的許可權";
-$_LANG['permissions']['descriptions']['emails'] = "訪問檢視帳戶電子郵件歷史記錄的許可權";
+$_LANG['permissions']['descriptions']['affiliates'] = "查看和請求提現的許可權";
+$_LANG['permissions']['descriptions']['emails'] = "訪問查看帳戶電子郵件歷史記錄的許可權";
 $_LANG['permissions']['descriptions']['orders'] = "允許下達新訂單";
 
 $_LANG['closed'] = "已關閉";
@@ -3643,7 +3643,7 @@ $_LANG['store']['ox']['title'] = "專業電子郵件";
 $_LANG['store']['ox']['manage'] = "管理電子郵件帳戶";
 $_LANG['store']['ox']['appSuite'] = "OX App Suite";
 $_LANG['store']['ox']['promoHeading'] = "OX App Suite 是功能強大的電子郵件和Productivity應用程式，專為任何規模的企業(行業)打造。";
-$_LANG['store']['ox']['viewPricing'] = "檢視計劃和定價";
+$_LANG['store']['ox']['viewPricing'] = "查看計劃和定價";
 $_LANG['store']['ox']['standout']['feature1']['title'] = "從電子郵件中獲取更多資訊";
 $_LANG['store']['ox']['standout']['feature2']['title'] = "跟垃圾郵件說再見";
 $_LANG['store']['ox']['standout']['feature3']['title'] = "隨時隨地工作";
@@ -3737,7 +3737,7 @@ $_LANG['store']['addon']['wptk']['smartUpdates']['featureBody1'] = "Smart Update
 $_LANG['store']['addon']['wptk']['smartUpdates']['featureTitle2'] = "如果更新是安全的怎麼辦？";
 $_LANG['store']['addon']['wptk']['smartUpdates']['featureBody2'] = "安全更新可以自動安裝到實時網站，沒有破壞或以其他方式損壞網站的風險。";
 $_LANG['store']['addon']['wptk']['smartUpdates']['featureTitle3'] = "如果更新不安全怎麼辦？";
-$_LANG['store']['addon']['wptk']['smartUpdates']['featureBody3'] = "網站所有者將看到一個介面來檢視發現的每個問題，以確定他們是否希望繼續。";
+$_LANG['store']['addon']['wptk']['smartUpdates']['featureBody3'] = "網站所有者將看到一個介面來查看發現的每個問題，以確定他們是否希望繼續。";
 $_LANG['store']['addon']['wptk']['plesk']['featureTitle1'] = "WordPress 簡化版";
 $_LANG['store']['addon']['wptk']['plesk']['featureBody1'] = "一鍵安裝程式從頭到尾初始化和配置WordPress。一個儀表板可以批次管理多個WordPress 例項。";
 $_LANG['store']['addon']['wptk']['plesk']['featureTitle2'] = "階段和測試";
@@ -3763,7 +3763,7 @@ $_LANG['store']['addon']['wptk']['unavailable'] = "不可用";
 $_LANG['store']['addon']['wptk']['for'] = "於";
 $_LANG['store']['addon']['wptk']['totalInCart'] = "購物車中的總數：";
 $_LANG['store']['addon']['wptk']['proceedToCheckout'] = "繼續結帳";
-$_LANG['store']['addon']['wptk']['loginToSeePricing'] = "登入檢視價格以新增到您現有的虛擬主機";
+$_LANG['store']['addon']['wptk']['loginToSeePricing'] = "登入查看價格以新增到您現有的虛擬主機";
 $_LANG['store']['addon']['wptk']['loginNow'] = "立即登入";
 $_LANG['store']['addon']['wptk']['browsePackages'] = "瀏覽託管包";
 $_LANG['store']['addon']['wptk']['faqQ1'] = "WP Toolkit 是什麼？";
@@ -3773,11 +3773,11 @@ $_LANG['store']['addon']['wptk']['faqA2'] = "WP Toolkit Deluxe 是付費升級�
 $_LANG['store']['addon']['wptk']['faqQ3'] = "什麼是智慧更新？";
 $_LANG['store']['addon']['wptk']['faqA3'] = "智慧更新在完全安全的環境中自動測試主題、外掛、語言和 WordPress 本身的更新，對您的生活沒有任何風險 網站。";
 $_LANG['store']['addon']['wptk']['faqQ4'] = "WP Toolkit 的價格是多少？";
-$_LANG['store']['addon']['wptk']['faqA4'] = "WP Toolkit Deluxe 可作為適用託管包的附加元件使用。要檢視定價，請<a href=\":webRoot/login.php\">登入</a> 以檢視您現有域的定價，或<a href=\":webRoot/register.php\">註冊</a>成為新使用者。";
+$_LANG['store']['addon']['wptk']['faqA4'] = "WP Toolkit Deluxe 可作為適用託管包的附加元件使用。要查看定價，請<a href=\":webRoot/login.php\">登入</a> 以查看您現有域的定價，或<a href=\":webRoot/register.php\">註冊</a>成為新使用者。";
 $_LANG['store']['addon']['wptk']['faqQ5'] = "我如何訪問 WP Toolkit？";
 $_LANG['store']['addon']['wptk']['faqA5'] = "如果您有訪問許可權，您將在 cPanel 儀表板中找到一個 WP Toolkit 圖示和連結。對於那些使用 WP Toolkit Deluxe 的人， 可以進入我們的<a href=\":webRoot/clientarea.php\">客戶區</a>.";
 $_LANG['store']['addon']['wptk']['faqQ6'] = "智慧更新的費用是多少？";
-$_LANG['store']['addon']['wptk']['faqA6'] = "智慧更新可作為適用託管包的附加元件。要檢視定價，請<a href=\":webRoot/login.php\">登入</a>以檢視您現有域的定價，或<a href=\":webRoot/register.php\">註冊</a>成為新客戶。";
+$_LANG['store']['addon']['wptk']['faqA6'] = "智慧更新可作為適用託管包的附加元件。要查看定價，請<a href=\":webRoot/login.php\">登入</a>以查看您現有域的定價，或<a href=\":webRoot/register.php\">註冊</a>成為新客戶。";
 $_LANG['store']['addon']['wptk']['faqQ7'] = "我如何訪問 WP Toolkit？";
 $_LANG['store']['addon']['wptk']['faqA7'] = "如果您有訪問許可權，您將在Plesk儀表板中找到WP工具包圖示和連結。只有在購買之後才能訪問智慧更新。";
 
@@ -3908,7 +3908,7 @@ $_LANG['store']['siteBuilder']['upgrade']['title'] = "Site Builder";
 $_LANG['store']['siteBuilder']['upgrade']['required'] = "需要升級";
 $_LANG['store']['siteBuilder']['upgrade']['requiredDescription'] = "要訪問您請求的功能，您需要升級您的 Site Builder 計劃。";
 $_LANG['store']['siteBuilder']['upgrade']['recommended'] = "顯示推薦方案。";
-$_LANG['store']['siteBuilder']['upgrade']['login'] = "要檢視可用選項，請登入。";
+$_LANG['store']['siteBuilder']['upgrade']['login'] = "要查看可用選項，請登入。";
 $_LANG['store']['siteBuilder']['upgrade']['no'] = "無可用升級";
 $_LANG['store']['siteBuilder']['upgrade']['noUpgrade'] = "目前沒有可用的升級。";
 $_LANG['store']['siteBuilder']['upgrade']['submitTicket'] = "聯絡支援";
@@ -3972,10 +3972,10 @@ $_LANG['store']['siteBuilder']['featuresdescriptions']['store']['6'] = "建立�
 $_LANG['store']['siteBuilder']['featuresdescriptions']['store']['7'] = "庫存跟蹤有助於瞭解是否需要補充產品庫存以及哪些產品變體最受歡迎。";
 $_LANG['store']['siteBuilder']['featuresdescriptions']['store']['8'] = "透過將您的線上商店與運營商公司聯絡起來，您可以在結帳時為您的客戶提供實時運營商費率如美國郵政、聯邦快遞、UPS、澳大利亞郵政、加拿大郵政等";
 $_LANG['store']['siteBuilder']['featuresdescriptions']['store']['9'] = "對任何國家應用稅收計算或定義特定區域。完全控制稅收計算；設定稅收每個位置，每組產品加稅，或設定免稅產品。";
-$_LANG['store']['siteBuilder']['featuresdescriptions']['store']['10'] = "透過電子郵件即時接收訂單通知。管理和檢視所有訂單的概覽、搜尋訂單、過濾他們按類別更新訂單、客戶資訊並新增發貨跟蹤號。";
-$_LANG['store']['siteBuilder']['viewPricing'] = "檢視價格和方案";
+$_LANG['store']['siteBuilder']['featuresdescriptions']['store']['10'] = "透過電子郵件即時接收訂單通知。管理和查看所有訂單的概覽、搜尋訂單、過濾他們按類別更新訂單、客戶資訊並新增發貨跟蹤號。";
+$_LANG['store']['siteBuilder']['viewPricing'] = "查看價格和方案";
 $_LANG['store']['siteBuilder']['templatesTitle'] = "業務加速模板";
-$_LANG['store']['siteBuilder']['templatesOutro'] = "使用 Site Builder 檢視所有 150 多個模板，讓您快速輕鬆地開始使用。";
+$_LANG['store']['siteBuilder']['templatesOutro'] = "使用 Site Builder 查看所有 150 多個模板，讓您快速輕鬆地開始使用。";
 $_LANG['store']['siteBuilder']['tryFree'] = "免費試用 Site Builder";
 $_LANG['store']['siteBuilder']['tryFreeIntro'] = "透過開放試用，您可以免費試用 Site Builder 並完全構建您的新網站，無需預付費用。";
 $_LANG['store']['siteBuilder']['tryFreeIntro2'] = "在您準備好釋出之前無需支付任何費用！";
@@ -4076,7 +4076,7 @@ $_LANG['store']['siteBuilder']['cartShortDescription'] = "將我們的網站構�
 
 $_LANG['clickHere'] = "點選這裡";
 $_LANG['buy'] = "購買";
-$_LANG['viewMore'] = "檢視更多...";
+$_LANG['viewMore'] = "查看更多...";
 
 $_LANG['store']['siteBuilder']['promo']['sidebar']['title'] = "新增站點構建器";
 $_LANG['store']['siteBuilder']['promo']['sidebar']['body'] = "使用 Site Builder 快速建立您的網站";
@@ -4150,7 +4150,7 @@ $_LANG['idna']['domainTooLong'] = "域名已超過最大長度。";
 $_LANG['idna']['invalidDomain'] = "域名無效。";
 $_LANG['idna']['unknownError'] = "發生未知錯誤。";
 
-$_LANG['domains']['europeanDomainTerms'] = "關於您的聯絡資料的重要資訊：根據合同，我們有義務與該 TLD 的序號產生器構共享您的個人資訊。我們會將您的個人資訊傳輸到序號產生器構，該序號產生器構可能會發布公開給 WHOIS。有關我們為何分享您的個人資訊的詳細資訊，請檢視我們的隱私政策和域名註冊協議。";
+$_LANG['domains']['europeanDomainTerms'] = "關於您的聯絡資料的重要資訊：根據合同，我們有義務與該 TLD 的序號產生器構共享您的個人資訊。我們會將您的個人資訊傳輸到序號產生器構，該序號產生器構可能會發布公開給 WHOIS。有關我們為何分享您的個人資訊的詳細資訊，請查看我們的隱私政策和域名註冊協議。";
 
 
 $_LANG['store']['ssl']['shared']['oneYearPrice'] = "1 年";
@@ -4247,7 +4247,7 @@ $_LANG['store']['cPanelSEO']['faq4ans'] = "<p><em>關鍵字</em>是搜尋查詢�
 $_LANG['store']['cPanelSEO']['faq5'] = "什麼是關鍵詞最佳化？";
 $_LANG['store']['cPanelSEO']['faq5ans'] = "<p>所以我們知道相關性是搜尋結果中排名靠前的關鍵因素。要建立相關內容，您需要處理圍繞單個子頁面或 URL 上的關鍵字的主題和問題。然後，確保您的關鍵字出現在您頁面上的關鍵位置。</p><p>假設您從事冰淇淋行業。您的關鍵字之一是 < em>s'mores 冰淇淋三明治</em>。現在您專注於與 <em>s'mores 冰淇淋三明治有關的所有事情</em>。</p><p>您想做什麼是為 <em>s'mores 冰淇淋三明治</em>建立一個食譜頁面，使用者可以在其中找到易於理解的食譜、圖片或影片，以及他們可能遇到的問題的答案。<em>S'mores ice cream sandwich</em> 是您的焦點關鍵字，應該出現在您頁面的 URL、標題、標題等中。</p><p>提供專門的關鍵字最佳化頁面可以讓搜尋引擎的第二批使用者輕鬆使用，也無法確定您的頁面的全部內容。這樣，t嘿可以在相關搜尋結果中的好位置列出它。</p>";
 $_LANG['store']['cPanelSEO']['faq6'] = "如何使用顧問";
-$_LANG['store']['cPanelSEO']['faq6ans'] = "<p>首先，透過單擊頂部導航欄中的顧問來檢視顧問板。它是一個看板，可幫助您按狀態組織任務. 您的任務按重要性進行顏色編碼：</p><ul><li><strong>紅色：</strong>高。儘快解決。</li><li><strong>黃色：</strong>中. 儘快解決這些問題。</li><li><strong>藍色：</strong>低。牢記它們並儘可能解決它們。</li></ul><img src=\":image1 \"><p>您可以在完成任務時拖放，將任務分配給其他使用者（取決於您的計劃），並按受讓人過濾。</p><p>如上所述，任務是混合每週對您的網站進行自動審核時發現的標準基本 SEO 措施和問題。</p>";
+$_LANG['store']['cPanelSEO']['faq6ans'] = "<p>首先，透過單擊頂部導航欄中的顧問來查看顧問板。它是一個看板，可幫助您按狀態組織任務. 您的任務按重要性進行顏色編碼：</p><ul><li><strong>紅色：</strong>高。儘快解決。</li><li><strong>黃色：</strong>中. 儘快解決這些問題。</li><li><strong>藍色：</strong>低。牢記它們並儘可能解決它們。</li></ul><img src=\":image1 \"><p>您可以在完成任務時拖放，將任務分配給其他使用者（取決於您的計劃），並按受讓人過濾。</p><p>如上所述，任務是混合每週對您的網站進行自動審核時發現的標準基本 SEO 措施和問題。</p>";
 $_LANG['store']['cPanelSEO']['faq7'] = "我想要其他網站的顧問。如何獲得？";
 $_LANG['store']['cPanelSEO']['faq7ans'] = "<p>請記住，您確實需要一個 <em>專案</em> 才能使顧問功能正常工作。此外，大多數顧問的任務是針對專案網站（通常是您或您客戶的網站）量身定製的。如果您管理多個網站，則需要為每個網站建立一個額外的專案。</p><p>新增或切換到另一個專案，單擊頂部導航欄中的 <em>專案</em> 選單。根據您的計劃，您可能需要升級它以新增另一個專案。</p>";
 $_LANG['store']['cPanelSEO']['faq8'] = "我如何將任務分配給其他使用者？";
@@ -4257,7 +4257,7 @@ $_LANG['store']['cPanelSEO']['faq9ans'] = "<p>您可能會看到您已經解決�
 $_LANG['store']['cPanelSEO']['faq10'] = "什麼是專案可見性？";
 $_LANG['store']['cPanelSEO']['faq10ans'] = "<p>雖然可見性是一個很好的分數，可以讓你瞭解你的整體表現並比較網站，但它並不適合你的特定關鍵字集。</p><p>這就是我們提供的原因<em>Project Visibility</em>。該指標的計算方式與 Visibility 相同，但不是使用 500,000 個跨行業關鍵字，Project Visibility 完全基於您的 Rank Tracker 中的關鍵字。</p><p>在換句話說，Project Visibility 是與您的業務相關的一組獨特關鍵字的自定義可見性分數。</p><p>您可以在此處找到 Project Visibility：<em>Projects ?Rank Tracker ?Visibility</em >.</p><p>您可能已經知道，您還可以在 Rank Tracker 中跟蹤競爭對手的排名。這樣，您也可以獲得他們的 Project Visibility，從而獲得更多資訊客觀比較。因此，即使他們的產品或服務組合略有不同，Project Visibility 也會專門針對您實際共享的關鍵字。</p>";
 $_LANG['store']['cPanelSEO']['faq11'] = "為什麼能見度分數有用？";
-$_LANG['store']['cPanelSEO']['faq11ans'] = "<p>使用您的可見性分數作為您的整體 SEO 效能、問題和最佳化潛力的指標。</p><p><strong>1. 瞭解您的整體 SEO 表現</strong></p><p>您可以跟蹤單個關鍵字的排名並知道您的排名。這是一件很重要的事情。但是，排名跟蹤確實不是讓您鳥瞰您的排名的整體提升——但可見性確實如此。當您的 SEO 措施有效並且排名提高時，您的可見性得分也會提高。</p><p><strong>2. 診斷SEO 問題</strong></p><p>您的能見度突然下降表明您的 SEO 效能存在問題。使用“能見度”作為警報。如果它顯著下降，請開始挖掘發生了什麼。以下是常見原因列表：</p><ul><li>您受到了 <strong>Google 處罰</strong>。請檢視 Search Console 中的通知。請務必關注 <a href=\":googleWebmasterGuidelinesUrl\" target=\"_blank\">Google 的網站管理員指南</a>。</li><li>Google 演算法最近發生的變化會產生一些影響。詢問最近的 <strong>Google 更新</strong> 及其內容。</li><li>您的競爭對手最佳化了他們的網站和內容，現在他們在競爭中勝過了您。將他們的（歷史）<strong>可見性</strong>與您的進行比較。使用 <a href=\":waybackMachineUrl\" target=\"_blank\">Wayback Machine</a> 比較其內容的變化。</li><li>您重新啟動網站時並未考慮 SEO。例如，檢查 <em>robots.txt</em> 和 <em>.htaccess</em> 是否有意外阻止的頁面、增加的 404 狀態程式碼、錯誤的 301 重定向和內部連結。<br><br>您以無助於排名的方式更改了您的內容。考慮撤消更改。<br><br>您的網站存在技術問題。執行<em>站點審核</em>或檢查您的<strong><em>顧問</em></strong>是否有未完成的技術任務。檢查您的後端是否存在可能造成嚴重破壞的過時、最近更新或不相容的<strong>外掛</strong>。<br><br>原因是託管問題。詢問您的主機是否最近進行了更改、是否被駭客入侵、移動了他們的伺服器或遇到了技術問題。檢視您的伺服器是否有問題。</li></ul><p>請記住，此列表並不詳盡。這些原因中的一個或多個可以同時適用，也可以同時存在其他原因。</p><p><strong>3.競爭對手比較</strong></p><p>可見性是快速比較兩個或多個網站的重要指標。對照他們檢查你的能見度。誰在競爭誰？過去是否有競爭對手超越您，反之亦然？誰在這個領域領先，你和你最激烈的競爭對手之間的差距有多大？回答這些問題將幫助您制定 SEO 策略，以在您的利基市場中脫穎而出（並保持）。</p><p><strong>4.使用歷史資料跟蹤隨時間推移的可見性發展</strong></p><p>想了解網站隨時間推移的表現如何？我們提供的歷史資料可以追溯到 2009 年，沒有季節性波動。這樣，您就可以跟蹤和比較歷史可見性，並檢視它們在很長一段時間內的發展。</p>";
+$_LANG['store']['cPanelSEO']['faq11ans'] = "<p>使用您的可見性分數作為您的整體 SEO 效能、問題和最佳化潛力的指標。</p><p><strong>1. 瞭解您的整體 SEO 表現</strong></p><p>您可以跟蹤單個關鍵字的排名並知道您的排名。這是一件很重要的事情。但是，排名跟蹤確實不是讓您鳥瞰您的排名的整體提升——但可見性確實如此。當您的 SEO 措施有效並且排名提高時，您的可見性得分也會提高。</p><p><strong>2. 診斷SEO 問題</strong></p><p>您的能見度突然下降表明您的 SEO 效能存在問題。使用“能見度”作為警報。如果它顯著下降，請開始挖掘發生了什麼。以下是常見原因列表：</p><ul><li>您受到了 <strong>Google 處罰</strong>。請查看 Search Console 中的通知。請務必關注 <a href=\":googleWebmasterGuidelinesUrl\" target=\"_blank\">Google 的網站管理員指南</a>。</li><li>Google 演算法最近發生的變化會產生一些影響。詢問最近的 <strong>Google 更新</strong> 及其內容。</li><li>您的競爭對手最佳化了他們的網站和內容，現在他們在競爭中勝過了您。將他們的（歷史）<strong>可見性</strong>與您的進行比較。使用 <a href=\":waybackMachineUrl\" target=\"_blank\">Wayback Machine</a> 比較其內容的變化。</li><li>您重新啟動網站時並未考慮 SEO。例如，檢查 <em>robots.txt</em> 和 <em>.htaccess</em> 是否有意外阻止的頁面、增加的 404 狀態程式碼、錯誤的 301 重新導向和內部連結。<br><br>您以無助於排名的方式更改了您的內容。考慮撤消更改。<br><br>您的網站存在技術問題。執行<em>站點審核</em>或檢查您的<strong><em>顧問</em></strong>是否有未完成的技術任務。檢查您的後端是否存在可能造成嚴重破壞的過時、最近更新或不相容的<strong>外掛</strong>。<br><br>原因是託管問題。詢問您的主機是否最近進行了更改、是否被駭客入侵、移動了他們的伺服器或遇到了技術問題。查看您的伺服器是否有問題。</li></ul><p>請記住，此列表並不詳盡。這些原因中的一個或多個可以同時適用，也可以同時存在其他原因。</p><p><strong>3.競爭對手比較</strong></p><p>可見性是快速比較兩個或多個網站的重要指標。對照他們檢查你的能見度。誰在競爭誰？過去是否有競爭對手超越您，反之亦然？誰在這個領域領先，你和你最激烈的競爭對手之間的差距有多大？回答這些問題將幫助您制定 SEO 策略，以在您的利基市場中脫穎而出（並保持）。</p><p><strong>4.使用歷史資料跟蹤隨時間推移的可見性發展</strong></p><p>想了解網站隨時間推移的表現如何？我們提供的歷史資料可以追溯到 2009 年，沒有季節性波動。這樣，您就可以跟蹤和比較歷史可見性，並查看它們在很長一段時間內的發展。</p>";
 $_LANG['store']['cPanelSEO']['faq12'] = "我怎樣才能提高我的能見度分數？";
 $_LANG['store']['cPanelSEO']['faq12ans'] = "<p>簡答：不要將提高可見性作為您的 SEO 策略的目標。</p><p>長答案：可見性 < em>在單一指標中反映</em>您的排名質量；它不會帶來更好的排名。將提高潛在客戶實際用於查詢與您類似的產品和服務的相關關鍵字的排名作為您的目標。提高您的排名也會提高您的知名度。但真正重要的是您的排名。</p><p>根據經驗，如果</p><ul><li>您的域名是URL 排名靠前</li><li>您擁有大量排名良好的索引 URL</li><li>您在搜尋量高的關鍵字中排名靠前</li></ul>";
 $_LANG['store']['cPanelSEO']['promo']['sidebar']['title'] = "SEO 工具";
